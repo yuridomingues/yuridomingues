@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a company
 - 📫 How to reach me: yuridomingues.contato@gmail.com
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: In the beginning i used "O" instead of 0 xD
+- ⚡ Fun fact: I play volleyball! 
 
 <!---
 HACHlIl/HACHlIl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
