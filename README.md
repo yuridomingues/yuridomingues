@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @HACHlIl
-- 👀 I’m interested in learning how much I can
+- 👀 I’m interested in learning how much I can improve my skills
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on a company
 - 📫 How to reach me: yuridomingues.contato@gmail.com
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I play volleyball! 
 
 <!---
