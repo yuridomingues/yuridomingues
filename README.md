@@ -3,8 +3,8 @@
 -  I’m looking to collaborate on a company
 -  Pronouns: he/him
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=hachlil&show_icons=false&theme=holi  )
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=hachlil&show_icons=false&theme=transparent  )
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hachlil&layout=compact&theme=holi  )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hachlil&layout=compact&theme=transparent  )
 
 
