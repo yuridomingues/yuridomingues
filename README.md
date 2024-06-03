@@ -1,6 +1,6 @@
-- ### 👋 Hi, I’m Hachi!
+- ### 👋 I’m Hachi!
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on a company
-- 📫 How to reach me: yuridomingues.contato@gmail.com
+- 💞 I’m looking to collaborate on a company
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I play volleyball! 
+
+[![Hachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hachlil)](https://github.com/anuraghazra/github-readme-stats)
