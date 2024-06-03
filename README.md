@@ -1,4 +1,4 @@
-- ###  I’m Hachi!
+- ###  I’m Hachi
 -  I’m currently learning C++
 -  I’m looking to collaborate on a company
 -  Pronouns: he/him
