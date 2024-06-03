@@ -5,7 +5,7 @@
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=hachlil&show_icons=true&theme=blue_navy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hachlil&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hachlil&layout=compact&theme=blue_navy)
 
 
 <a href="https://github.com/hachlil/github-readme-stats">
