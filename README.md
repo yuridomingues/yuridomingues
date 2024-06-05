@@ -3,8 +3,8 @@
 -  I’m looking to collaborate on a company
 -  Pronouns: he/him
 
-![Hachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hachlil&show_icons=true&theme=great-gatsby&bgcolor=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hachlil&theme=great-gatsby)](https://github.com/hachlil/github-readme-stats)
+![Hachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hachlil&show_icons=true&theme=dracula&bgcolor=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hachlil&theme=dracula)](https://github.com/hachlil/github-readme-stats)
 
 <div> 
   <a href="https://instagram.com/yuri_ssan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
