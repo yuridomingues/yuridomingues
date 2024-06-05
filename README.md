@@ -3,8 +3,5 @@
 -  I’m looking to collaborate on a company
 -  Pronouns: he/him
 
-<a href="https://github.com/hachlil">
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=hachlil&show_icons=false&theme=default"\>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hachlil&layout=compact&theme=default"\>
-<\div>
+[![Hachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hachlil)](https://github.com/hachlil/github-readme-stats)
 
