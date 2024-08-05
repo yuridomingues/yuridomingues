@@ -1,6 +1,6 @@
 - ###  Hello World, I'm Hachi!
 -  I’m currently learning C and C#
--  I’m looking to collaborate on a company
+-  PSTG-TECH Software Engineer
 -  Pronouns: he/him
 
 ![Hachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hachlil&show_icons=true&theme=dracula&bgcolor=transparent)
