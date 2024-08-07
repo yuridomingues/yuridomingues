@@ -1,5 +1,5 @@
 - ###  Hello World, I'm Hachi!
--  I’m currently learning C and C#
+-  I’m currently learning C, C# and Python
 -  PSTG-TECH Software Engineer
 -  Pronouns: he/him
 
