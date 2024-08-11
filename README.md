@@ -2,7 +2,7 @@
 -  I’m currently learning C, C# and Python
 -  Software Engineer at PSTG-TECH
 -  Pronouns: he/him
--  Student in Computer Science at UNIFESO (2/8)
+-  Student in Computer Science at UNIFESO
 
 ![Hachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hachlil&show_icons=true&theme=dracula&bgcolor=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hachlil&theme=dracula)](https://github.com/hachlil/github-readme-stats)
