@@ -1,6 +1,6 @@
 - ###  Hello World, I'm Hachi!
 -  I’m currently learning C, C# and Python
--  PSTG-TECH Software Engineer
+-  Software Engineer
 -  Pronouns: he/him
 -  Student in Computer Science at UNIFESO (2/8)
 
