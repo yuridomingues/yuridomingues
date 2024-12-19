@@ -1,4 +1,4 @@
-- ###  Hello World, I'm Hachi!
+- ###  Hello World, I'm Yuri!
 -  I’m currently learning C, C# and Python
 -  Software Engineer at PSTG-TECH
 -  Pronouns: he/him
