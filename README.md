@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🖥️ **Software Engineer** at [PSTG-TECH](https://www.pstg-tech.com)
+- 🖥️ **Software Engineer** at [PSTG-TECH](https://pstg.com.br/)
 - 📚 **Computer Science Student** at [UNIFESO](https://www.unifeso.edu.br)
 - 🔍 Currently learning **C**, **C#**, and **Python**
 - 💬 Pronouns: **he/him**
