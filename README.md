@@ -1,4 +1,4 @@
-# Hello World, I'm Yuri! 👋
+# Hello World, I'm Yuri! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## About Me
 
