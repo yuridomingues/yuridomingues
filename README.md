@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://source.unsplash.com/800x400/?technology,code" alt="Developer at Work" width="800"/>
+  <img src="https://source.unsplash.com/800x400/?technology,programming" alt="Developer at Work" width="800"/>
   
   <h1>👋 Hi, I'm Yuri Domingues! 👋</h1>
   
@@ -34,9 +34,9 @@
 ---
 
 ### 🚀 About Me
-- 💼 **Currently working on:** Realidade Aumentada, Unity e C#.
-- 🛠️ **Interests:** Desenvolvimento de Software, Python e Simuladores 3D.
-- 🎯 **Goal:** Criar experiências impactantes com tecnologia.
+- 💼 **Currently working on:** Augmented Reality, Unity, and C#.
+- 🛠️ **Interests:** Software Development, Python, and 3D Simulators.
+- 🎯 **Goal:** To create impactful experiences with technology.
 - 🌐 **Find me around the web:**
   <div>
     <a href="https://www.linkedin.com/in/yuri-domingues-63869b320/" target="_blank">
