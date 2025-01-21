@@ -2,7 +2,7 @@
   <img src="[https://i.imgur.com/qZ2lZ0b.png](https://imgur.com/D25S0Fy)" alt="Developer at Work" width="800"/>
 </div>
   
-  <h1>👋 Hi, I'm Yuri Domingues! 👋</h1>
+  <h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 👋 Hi, I'm Yuri Domingues! 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
   
   <p>
     💻 **Software Engineer** at <a href="https://pstg.com.br/">PSTG-TECH</a> <br/>
@@ -29,7 +29,7 @@
 
 ### 🌟 Top Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuridomingues&layout=compact&theme=dracula&bg_color=transparent&hide_title=true" alt="Top Languages" height="150"/>
+  <img src=["https://github-readme-stats.vercel.app/api/top-langs/?username=yuridomingues&layout=compact&theme=dracula&bg_color=transparent&hide_title=true" alt="Top Languages" height="150"](https://github-readme-stats.vercel.app/api/top-langs/?username=yuridomingues&theme=dracula)](https://github.com/yuridomingues/github-readme-stats)/>
 </div>
 
 ---
