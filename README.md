@@ -1,11 +1,13 @@
 # Hi, I'm Yuri Domingues! 👋
 
+![Wave Gif](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif) <!-- Gif de saudação animado -->
+
 ## About Me
 
 - 💼 **Software Engineer** at [PSTG-TECH](https://pstg.com.br/)
 - 🎓 **Computer Science Student** at [UNIFESO](https://www.unifeso.edu.br)
 - 🔍 Currently learning **C#** and **Python**
-- 🌱 Always looking to improve my skills!
+- 🌱 Always looking to improve my software development skills!
 
 ## GitHub Stats
 
@@ -34,4 +36,14 @@
 
 ## Pronouns
 
-- 💬 Pronouns: **he/him**
+💬 Pronouns: **he/him**
+
+## Fun Facts 🎉
+
+- 🌟 I'm a fan of open-source software and contribute whenever I can!
+- 🚀 I love experimenting with new technologies and frameworks.
+- 💻 When I'm not coding, I enjoy learning new things about tech and design!
+
+## Personal Touch - Code Gif
+
+![Code Gif](https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/images/coding.gif) <!-- Gif de código para dar um toque de dinamismo -->
