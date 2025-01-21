@@ -1,4 +1,5 @@
-# Hi, I'm Yuri Domingues! ![Wave Gif](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+# Hi, I'm Yuri Domingues!
+![Wave Gif](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 
 ## About Me
 
