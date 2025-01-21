@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://source.unsplash.com/800x400/?technology,programming" alt="Developer at Work" width="800"/>
+  <img src="https://i.imgur.com/qZ2lZ0b.png" alt="Developer at Work" width="800"/>
+</div>
   
   <h1>👋 Hi, I'm Yuri Domingues! 👋</h1>
   
@@ -38,6 +39,7 @@
 - 🛠️ **Interests:** Software Development, Python, and 3D Simulators.
 - 🎯 **Goal:** To create impactful experiences with technology.
 - 🌐 **Find me around the web:**
+  
   <div>
     <a href="https://www.linkedin.com/in/yuri-domingues-63869b320/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
