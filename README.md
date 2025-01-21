@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/qZ2lZ0b.png" alt="Developer at Work" width="800"/>
+  <img src="[https://i.imgur.com/qZ2lZ0b.png](https://imgur.com/D25S0Fy)" alt="Developer at Work" width="800"/>
 </div>
   
   <h1>👋 Hi, I'm Yuri Domingues! 👋</h1>
