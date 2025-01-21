@@ -4,7 +4,7 @@
   <h1>👋 Hi, I'm Yuri Domingues! 👋</h1>
   
   <p>
-    💻 **Software Engineer** at <a href="https://pstg.com.br/">PSTG-TECH</a> <br/>
+    💻 *Software Engineer* at <a href="https://pstg.com.br/">PSTG-TECH</a> <br/>
     🎓 **Computer Science Student** at <a href="https://www.unifeso.edu.br">UNIFESO</a> <br/>
     🌱 Always looking to improve my skills!
   </p>
