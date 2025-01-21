@@ -3,7 +3,7 @@
 </div>
 
 <h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  Hi, I'm Yuri Domingues!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fida+Code&size=25&pause=1000&center=true&vCenter=true&width=250&height=40&lines=Game+Dev;Software+Dev" alt="Typing SVG" /></a>
 <p>
   💻 <strong>Software Engineer</strong> at <a href="https://pstg.com.br/">PSTG-TECH</a> <br/>
   🎓 <strong>Computer Science Student</strong> at <a href="https://www.unifeso.edu.br">UNIFESO</a> <br/>
