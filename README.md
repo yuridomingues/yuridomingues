@@ -1,6 +1,4 @@
-# Hi, I'm Yuri Domingues! 👋
-
-![Wave Gif](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+# Hi, I'm Yuri Domingues! ![Wave Gif](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 
 ## About Me
 
@@ -37,5 +35,3 @@
 ## Pronouns
 
 💬 Pronouns: **he/him**
-
-![Code Gif](https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/images/coding.gif)
