@@ -7,7 +7,7 @@
 - 💼 **Software Engineer** at [PSTG-TECH](https://pstg.com.br/)
 - 🎓 **Computer Science Student** at [UNIFESO](https://www.unifeso.edu.br)
 - 🔍 Currently learning **C#** and **Python**
-- 🌱 Always looking to improve my software development skills!
+- 🌱 Always looking to improve my skills!
 
 ## GitHub Stats
 
