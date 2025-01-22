@@ -20,15 +20,15 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuridomingues&hide=contribs,prs&show_icons=true&theme=transparent" alt="Yuri's GitHub Stats" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=yuridomingues&theme=transparent" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yuridomingues&hide=contribs,prs&show_icons=true&theme=dracula" alt="Yuri's GitHub Stats" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=yuridomingues&theme=dracula" alt="GitHub Streak" height="150"/>
 </div>
 
 ---
 
 ### 🌟 Top Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuridomingues&layout=compact&theme=transparent" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuridomingues&layout=compact&theme=dracula" alt="Top Languages" />
 </div>
 
 ---
