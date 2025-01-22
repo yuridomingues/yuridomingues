@@ -12,7 +12,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Software%20Developer-blue?style=for-the-badge" alt="Badge">
-  <img src="https://img.shields.io/badge/-Lifelong%20Learner-orange?style=for-the-badge" alt="Badge">
+  <img src="https://img.shields.io/badge/-Lifelong%20Learner-red?style=for-the-badge" alt="Badge">
   <img src="https://img.shields.io/badge/-Open%20Source%20Lover-green?style=for-the-badge" alt="Badge">
 </div>
 
