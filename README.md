@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/pe8esY9.png" width="650"/>
+  <img src="https://i.imgur.com/pe8esY9.png" width="450"/>
 </div>
 
 <h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  Hi, I'm Yuri Domingues!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
