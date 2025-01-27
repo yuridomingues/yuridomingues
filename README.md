@@ -12,7 +12,7 @@
 - 🌱 Passionate about **Mixed Reality**, **Unity**, and **C#**
 - 🎯 Dedicated to building impactful experiences and solving real-world problems through technology
 - 🎮 In my free time, I enjoy spending time with the people I love, exploring open-source projects, and experimenting with new ideas
-- "Always looking for creative and innovative ways to solve problems, exploring new technologies, and honing my skills."
+- Always looking for creative and innovative ways to solve problems, exploring new technologies, and honing my skills.
 
 ---
 
