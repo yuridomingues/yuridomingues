@@ -46,7 +46,7 @@ An automated system leveraging ESP32 and sensors for efficient plant care.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yuridomingues&theme=github_dark&hide_border=true&show_icons=true" alt="GitHub Stats" height="150" />
-  <img src="https://streak-stats.demolab.com?user=yuridomingues&theme=github_dark&hide_border=true" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuridomingues&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="150" />
 </div>
 
 ---
@@ -54,8 +54,9 @@ An automated system leveraging ESP32 and sensors for efficient plant care.
 <h2 align="center">📊 Contribution Graph</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yuridomingues&theme=github-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuridomingues&theme=github-dark&hide_border=true" alt="Contribution Graph" />
 </div>
+
 
 ---
 
