@@ -61,4 +61,4 @@
 ---
 
 🚀 **Let’s innovate and build impactful solutions together!**  
-"I'm always open to collaborations, knowledge exchange, or simply a friendly chat about technology."
+I'm always open to collaborations, knowledge exchange, or simply a friendly chat about technology.
