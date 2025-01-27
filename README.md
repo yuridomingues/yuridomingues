@@ -11,6 +11,8 @@
 - 🎓 **Computer Science Student** at [UNIFESO](https://www.unifeso.edu.br)
 - 🌱 Passionate about **Mixed Reality**, **Unity**, and **C#**
 - 🎯 Dedicated to building impactful experiences and solving real-world problems through technology
+- 🎮 In my free time, I enjoy spending time with the people I love, exploring open-source projects, and experimenting with new ideas
+- "Always looking for creative and innovative ways to solve problems, exploring new technologies, and honing my skills."
 
 ---
 
@@ -21,10 +23,13 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/-ESP32-4C8C2D?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
 </div>
+
+---
+
+## 🏆 Featured Projects
+- **[ESP32_Automated_Irrigation ](https://github.com/yuridomingues/ESP32_Automated_Irrigation)**: An automated irrigation system based on ESP32, which uses sensors to monitor soil moisture and control plant watering, providing an efficient solution for garden and indoor plant care.
 
 ---
 
@@ -32,12 +37,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yuridomingues&hide=contribs,prs&show_icons=true&theme=dracula" alt="Yuri's GitHub Stats" height="150"/>
   <img src="https://streak-stats.demolab.com?user=yuridomingues&theme=dracula" alt="GitHub Streak" height="150"/>
-</div>
-
----
-
-## 🌟 Top Languages
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuridomingues&layout=compact&theme=dracula" alt="Top Languages" />
 </div>
 
@@ -58,3 +57,8 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
+
+---
+
+🚀 **Let’s innovate and build impactful solutions together!**  
+"I'm always open to collaborations, knowledge exchange, or simply a friendly chat about technology."
