@@ -1,4 +1,6 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Yuri Domingues! 
+🚀 Hi there! I'm **Yuri Domingues**, a **Software Engineer & Computer Science student** passionate about **problem-solving and building impactful experiences** with **Mixed Reality, Unity, and Embedded Systems**.
+
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <div align="center">
   <img src="https://imgur.com/svWhGWW.png" alt="Yuri Domingues Banner" width="800px" />
@@ -38,8 +40,16 @@
 <h2 align="center">🏆 Featured Projects</h2>
 
 ### 🌱 [ESP32 Automated Irrigation](https://github.com/yuridomingues/ESP32_Automated_Irrigation)
+A fully automated **plant irrigation system** using ESP32, soil moisture sensors, and a real-time monitoring dashboard.  
+🛠 **Technologies**: ESP32, Python, IoT, Firebase  
 
-An automated system leveraging ESP32 and sensors for efficient plant care.
+### 📌 [LeetCode Python Solutions](https://github.com/yuridomingues/LeetCode-Python)
+A collection of solved algorithmic challenges from LeetCode, written in Python.
+
+### 🔥 [Portfolio Website](https://github.com/yuridomingues/portfolio)
+A personal website showcasing my skills, projects, and blog posts (Coming Soon).
+
+🚀 Feel free to explore my repositories and reach out if you have any feedback or collaboration ideas!
 
 ---
 
@@ -58,6 +68,12 @@ An automated system leveraging ESP32 and sensors for efficient plant care.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuridomingues&theme=github-dark&hide_border=true" alt="Contribution Graph" />
 </div>
 
+---
+
+## 🎯 Next Steps
+🔹 Learning more about **Back-end Development** with Python and FastAPI.  
+🔹 Exploring **Cloud Computing** and DevOps tools like Docker and Kubernetes.  
+🔹 Expanding my knowledge in **Data Structures & Algorithms** through LeetCode challenges.  
 
 ---
 
