@@ -1,9 +1,9 @@
-🚀 Hi there! I'm **Yuri Domingues**, a **Software Engineer & Computer Science student** passionate about **problem-solving and building impactful experiences** with **Mixed Reality, Unity, and Embedded Systems**.
+🚀 Hi there! I'm [**Yuri Domingues**](https://github.com/yuridomingues), a **Software Engineer & Computer Science student** passionate about **solving complex problems and creating innovative solutions with Mixed Reality, Unity, and Embedded Systems.**
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <div align="center">
-  <img src="https://imgur.com/svWhGWW.png" alt="Yuri Domingues Banner" width="800px" />
+  <img src="https://i.imgur.com/p1kCWl7.png" alt="Yuri Domingues Banner" width="800px" />
 </div>
 
 <a href="https://git.io/typing-svg">
@@ -19,21 +19,20 @@
 - 🌱 Passionate about **Mixed Reality**, **Unity**, and **C#**  
 - 🎯 Dedicated to building impactful experiences and solving real-world problems through technology  
 - 🎮 Enjoys gaming, exploring open-source projects, and learning new technologies  
+- 🌍 Open to new opportunities in **Software Engineering, Mixed Reality, and Embedded Systems**.  
 
 ---
 
 <h2 align="center">🚀 Tech Stack</h2>
 
-### 🖥️ Programming Languages
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 💻 Programming Languages
+[![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ### 🔧 Tools & Platforms
-![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![ESP32](https://img.shields.io/badge/-ESP32-4C8C2D?style=for-the-badge&logo=espressif&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+[![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
+[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+[![ESP32](https://img.shields.io/badge/-ESP32-4C8C2D?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/)
 
 ---
 
@@ -97,4 +96,5 @@ A personal website showcasing my skills, projects, and blog posts (Coming Soon).
 ---
 
 <h3 align="center">🚀 Let’s innovate and build impactful solutions together!</h3>
+<p align="center">💬 Feel free to reach out for collaborations, opportunities, or just a tech chat!</p>
 <p align="center">🙏 Thank you for visiting my profile. Keep coding, keep innovating!</p>
