@@ -1,7 +1,5 @@
 🚀 Hi there! I'm [**Yuri Domingues**](https://github.com/yuridomingues), a **Software Engineer & Computer Science student** passionate about **solving complex problems and creating innovative solutions with Mixed Reality, Unity, and Embedded Systems.**
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 <div align="center">
   <img src="https://i.imgur.com/p1kCWl7.png" alt="Yuri Domingues Banner" width="800px" />
 </div>
