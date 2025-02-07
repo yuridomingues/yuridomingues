@@ -18,6 +18,7 @@
 - 🎯 Dedicated to building impactful experiences and solving real-world problems through technology  
 - 🎮 Enjoys gaming, exploring open-source projects, and learning new technologies  
 - 🌍 Open to new opportunities in **Software Engineering, Mixed Reality, and Embedded Systems**.  
+- 🔥 Currently focused on **Data Structures & Algorithms** and **Problem Solving with Python**.
 
 ---
 
@@ -68,9 +69,10 @@ A personal website showcasing my skills, projects, and blog posts (Coming Soon).
 ---
 
 ## 🎯 Next Steps
-🔹 Learning more about **Back-end Development** with Python and FastAPI.  
-🔹 Exploring **Cloud Computing** and DevOps tools like Docker and Kubernetes.  
-🔹 Expanding my knowledge in **Data Structures & Algorithms** through LeetCode challenges.  
+🔹 Strengthening **Data Structures & Algorithms** through LeetCode challenges.  
+🔹 Completing the **Fundamentals Stage (Etapa 1)** before specializing in Back-end Development.  
+🔹 Preparing for **Etapa 2: Specialization in Back-end Development** with Python and FastAPI.  
+🔹 Building full-stack projects and contributing to open-source communities.  
 
 ---
 
