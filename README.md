@@ -1,7 +1,7 @@
 🚀 Hi there! I'm [**Yuri Domingues**](https://github.com/yuridomingues), a **Software Engineer & Computer Science student** passionate about **solving complex problems and creating innovative solutions with Mixed Reality, Unity, and Embedded Systems.**
 
 <div align="center">
-  <img src="https://i.imgur.com/p1kCWl7.png" alt="Yuri Domingues Banner" width="800px" />
+  <img src="https://i.imgur.com/QxWn3Ce.png" alt="Yuri Domingues Banner" width="800px" />
 </div>
 
 <a href="https://git.io/typing-svg">
