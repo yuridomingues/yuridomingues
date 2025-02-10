@@ -70,8 +70,8 @@ A personal website showcasing my skills, projects, and blog posts (Coming Soon).
 
 ## 🎯 Next Steps
 🔹 Strengthening **Data Structures & Algorithms** through LeetCode challenges.  
-🔹 Completing the **Fundamentals Stage (Etapa 1)** before specializing in Back-end Development.  
-🔹 Preparing for **Etapa 2: Specialization in Back-end Development** with Python and FastAPI.  
+🔹 Completing the **Fundamentals Stage (Step 1)** before specializing in Back-end Development.  
+🔹 Preparing for **Step 2: Specialization in Back-end Development** with Python and FastAPI.  
 🔹 Building full-stack projects and contributing to open-source communities.  
 
 ---
