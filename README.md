@@ -82,7 +82,7 @@ A personal website showcasing my skills, projects, and blog posts (Coming Soon).
   <a href="https://www.linkedin.com/in/yuri-domingues-63869b320/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/yuridomingues_" target="_blank">
+  <a href="https://instagram.com/dominguesyuri_" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://discord.com/users/1325894782857379981" target="_blank">
