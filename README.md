@@ -41,12 +41,6 @@
 A fully automated **plant irrigation system** using ESP32, soil moisture sensors, and a real-time monitoring dashboard.  
 🛠 **Technologies**: ESP32, Python, IoT, Firebase  
 
-### 📌 [LeetCode Python Solutions](https://github.com/yuridomingues/LeetCode-Python-Solutions)
-A collection of solved algorithmic challenges from LeetCode, written in Python.
-
-### 🔥 [Portfolio Website](https://github.com/yuridomingues/portfolio)
-A personal website showcasing my skills, projects, and blog posts (Coming Soon).
-
 🚀 Feel free to explore my repositories and reach out if you have any feedback or collaboration ideas!
 
 ---
