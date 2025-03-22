@@ -1,5 +1,3 @@
-🚀 Hi there! I'm [**Yuri Domingues**](https://github.com/yuridomingues), a **Software Engineer & Computer Science student** passionate about **solving complex problems and creating innovative solutions with Mixed Reality, Unity, and Embedded Systems.**
-
 <div align="center">
   <img src="https://i.imgur.com/QxWn3Ce.png" alt="Yuri Domingues Banner" width="800px" />
 </div>
@@ -13,11 +11,9 @@
 <h2 align="center">🙋‍♂️ About Me</h2>
 
 - 💻 **Software Engineer** at [PSTG-TECH](https://pstg.com.br/)  
-- 🎓 **Computer Science Student** at [UNIFESO](https://www.unifeso.edu.br)  
-- 🌱 Passionate about **Mixed Reality**, **Unity**, and **C#**  
+- 🎓 **Computer Science Student** at [UNIFESO](https://www.unifeso.edu.br)   
 - 🎯 Dedicated to building impactful experiences and solving real-world problems through technology  
 - 🎮 Enjoys gaming, exploring open-source projects, and learning new technologies  
-- 🌍 Open to new opportunities in **Software Engineering, Mixed Reality, and Embedded Systems**.  
 - 🔥 Currently focused on **Data Structures & Algorithms** and **Problem Solving with Python**.
 
 ---
