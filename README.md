@@ -89,5 +89,5 @@ A fully automated **plant irrigation system** using ESP32, soil moisture sensors
 ---
 
 <h3 align="center">🚀 Let’s innovate and build impactful solutions together!</h3>
-<p align="center">💬 Feel free to reach out for collaborations, opportunities, or just a tech chat!</p>
-<p align="center">🙏 Thank you for visiting my profile. Keep coding, keep innovating!</p>
+<p align="center">Feel free to reach out for collaborations, opportunities, or just a tech chat!</p>
+<p align="center">Thank you for visiting my profile. Keep coding, keep innovating!</p>
