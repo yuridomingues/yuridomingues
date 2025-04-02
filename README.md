@@ -28,7 +28,7 @@
 [![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![ESP32](https://img.shields.io/badge/-ESP32-4C8C2D?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/)
-
+[![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-365/excel)
 ---
 
 <h2 align="center">🏆 Featured Projects</h2>
