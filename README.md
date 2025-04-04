@@ -35,7 +35,7 @@
 
 ### 🌱 [ESP32 Automated Irrigation](https://github.com/yuridomingues/ESP32_Automated_Irrigation)
 A fully automated **plant irrigation system** using ESP32, soil moisture sensors, and a real-time monitoring dashboard.  
-🛠 **Technologies**: ESP32, Python, IoT, Firebase  
+🛠 **Technologies**: ESP32, C++, IoT
 
 🚀 Feel free to explore my repositories and reach out if you have any feedback or collaboration ideas!
 
