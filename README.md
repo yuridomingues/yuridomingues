@@ -10,10 +10,7 @@
 
 <h2 align="center">🙋‍♂️ About Me</h2>
 
-- 💻 **Software Engineer** at [PSTG-TECH](https://pstg.com.br/)  
 - 🎓 **Computer Science Student** at [UNIFESO](https://www.unifeso.edu.br)   
-- 🎯 Dedicated to building impactful experiences and solving real-world problems through technology  
-- 🎮 Enjoys exploring open-source projects, and learning new technologies  
 - 🔥 Currently focused on **Data Structures & Algorithms** and **OOP**.
 
 ---
