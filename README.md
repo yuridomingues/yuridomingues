@@ -97,9 +97,6 @@ A fully automated **plant irrigation system** using ESP32, soil moisture sensors
   <a href="mailto:yuridomingues.contato@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-<a href="https://x.com/dominguesyuri_" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
 </div>
 
 ---
