@@ -18,8 +18,8 @@
 <h2 align="center">🚀 Tech Stack</h2>
 
 ### 💻 Programming Languages
-[![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![VBA](https://img.shields.io/badge/VBA-867DB1?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/office/vba/api/overview/)
 
 ### 🔧 Tools & Platforms
