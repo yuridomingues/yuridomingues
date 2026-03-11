@@ -1,17 +1,7 @@
-<div align="center">
-  <img src="https://i.imgur.com/QxWn3Ce.png" alt="Yuri Domingues Banner" width="800px" />
-</div>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=500&height=40&lines=Software+Engineer;Lifelong+Learner" alt="Typing SVG" />
-</a>
-
----
-
 <h2 align="center">🙋‍♂️ About Me</h2>
 
 - 🎓 **Computer Science Student** at [UNIFESO](https://www.unifeso.edu.br)   
-- 🔥 Currently focused on **Data Structures & Algorithms** and **OOP**.
+- 🔥 Currently focused on **AI Engineering**
 
 ---
 
