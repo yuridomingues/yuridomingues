@@ -1,5 +1,3 @@
-<h2 align="center">🙋‍♂️ About Me</h2>
-
 - 🎓 **Computer Science Student** at [UNIFESO](https://www.unifeso.edu.br)   
 - 🔥 Currently focused on **AI Engineering**
 
