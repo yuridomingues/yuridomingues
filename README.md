@@ -20,8 +20,6 @@ Desenvolvedor Backend com mais de 2 anos de mercado, especializado no ecossistem
 
 Sou estudante de **Ciência da Computação no UNIFESO** e Presidente do Diretório Acadêmico do curso. Pesquisador na área de **Deep Learning aplicado a imagens médicas**, com trabalho apresentado no CONFESO 2025.
 
-Acredito que código bom é aquele que resolve problemas reais — com clareza, escalabilidade e propósito.
-
 ---
 
 ## Stack
