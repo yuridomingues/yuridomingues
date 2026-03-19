@@ -2,7 +2,7 @@
 
 # Yuri Domingues
 
-**Backend Developer · AI Engineer**
+**Engenheiro de Software · Backend & IA**
 
 *Teresópolis, RJ.*
 
@@ -16,9 +16,9 @@
 
 ## Sobre mim
 
-Desenvolvedor Backend com mais de 2 anos de mercado, especializado no ecossistema Python. Atualmente na **Westhon Media (WSB Advisors)**, onde desenvolvo uma plataforma de inteligência marítima para o setor de O&G — trabalhando com scraping em escala, pipelines de dados e modelos preditivos baseados em IA.
+Desenvolvedor com quase 2 anos de mercado, focado em backend com Python mas confortável no full-stack quando precisa. Gosto de construir coisa do zero e levar para produção, a maioria dos projetos que fiz foi de forma independente mesmo.
 
-Sou estudante de **Ciência da Computação no UNIFESO** e Presidente do Diretório Acadêmico do curso. Pesquisador na área de **Deep Learning aplicado a imagens médicas**, com trabalho apresentado no CONFESO 2025.
+Atualmente na **WSB Advisors**, desenvolvendo uma plataforma de inteligência marítima para o setor de O&G e um sistema interno de gestão de projetos e equipes que o time já usa no dia a dia. Estudante de **Ciência da Computação no UNIFESO**, onde também sou Presidente do Diretório Acadêmico do curso.
 
 ---
 
@@ -30,6 +30,8 @@ Sou estudante de **Ciência da Computação no UNIFESO** e Presidente do Diretó
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Django Ninja](https://img.shields.io/badge/Django%20Ninja-009688?style=flat-square&logo=django&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
@@ -61,15 +63,13 @@ Sou estudante de **Ciência da Computação no UNIFESO** e Presidente do Diretó
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 **Outros**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-4C8C2D?style=flat-square&logo=espressif&logoColor=white)
@@ -78,21 +78,33 @@ Sou estudante de **Ciência da Computação no UNIFESO** e Presidente do Diretó
 
 ## Projetos em destaque
 
-### Plataforma de Inteligência Marítima *(Westhon Media)*
-Sistema de coleta e processamento de dados estratégicos para o setor de O&G. Backend com FastAPI/Django Ninja, scraping com Playwright, modelos preditivos de IA e interfaces com Next.js e WordPress.
-`Python` `FastAPI` `Django Ninja` `Playwright` `Next.js` `WordPress` `IA`
+### Sistema de Gestão de Projetos e Equipes *(WSB Advisors, em produção)*
+Construí do zero um sistema completo de gestão, tipo um Jira. Tem tarefas, sprints, times, categorias, prioridades, sistema de revisão por pares, gestão de arquivos e dashboards de performance. Hoje é usado pelos times de desenvolvimento e comercial da empresa.
+`Next.js` `FastAPI` `Supabase` `TypeScript` `Python`
 
-### Deep Learning em Imagens Médicas *(Pesquisa — UNIFESO)*
-Abordagem Data-Centric para treino de modelos em colonoscopia e mamografia. Uso de SSIM e K-Means para seleção e agrupamento de dados de treino. Apresentado no CONFESO 2025.
+### Plataforma de Inteligência Marítima *(WSB Advisors)*
+Plataforma de dados para o setor de O&G com coleta automatizada via scraping, processamento de dados estratégicos e modelos preditivos de IA.
+`Python` `FastAPI` `Django Ninja` `Playwright` `Selenium` `Next.js`
+
+### Plataforma de Gestão Veterinária *(em desenvolvimento)*
+Sistema de gestão clínica para medicina veterinária: prontuários, agendamentos e controle operacional. Projeto em dupla.
+`C#` `.NET` `Next.js`
+
+### Plataforma de Gestão de Passageiros em Vans *(em desenvolvimento)*
+Controle de rotas, passageiros e operação de transporte. Projeto em equipe (3 pessoas).
+`C#` `.NET` `React`
+
+### Deep Learning em Imagens Médicas *(Pesquisa, UNIFESO)*
+Abordagem Data-Centric para treino de modelos em imagens de colonoscopia e mamografia. Uso de SSIM e K-Means para seleção e agrupamento de dados. Apresentado no CONFESO 2025.
 `Python` `Deep Learning` `SSIM` `K-Means`
 
 ### [Sistema de Irrigação Automatizado](https://github.com/yuridomingues/ESP32_Automated_Irrigation)
 Sistema de irrigação com ESP32, sensores de umidade e dashboard de monitoramento em tempo real via WebSocket.
 `ESP32` `C++` `WebSocket` `IoT` `Python`
 
-### Automação SDR com n8n *(Montclair Energy)*
-Pipeline de automação para time de vendas integrando n8n, Notion API e AWS. Qualificação automática de prospects e redução de trabalho manual operacional.
-`n8n` `Notion API` `Python` `AWS`
+### Automação SDR com n8n *(Solarcore)*
+Pipeline de automação para time de vendas com n8n, Notion API, Django e AWS. Qualificação automática de prospects e redução de trabalho manual operacional.
+`n8n` `Notion API` `Django` `Playwright` `Python` `AWS`
 
 ---
 
@@ -110,5 +122,5 @@ Pipeline de automação para time de vendas integrando n8n, Notion API e AWS. Qu
 ---
 
 <div align="center">
-  <i>Aberto a oportunidades em backend, IA e projetos que importam.</i>
+  <i>Aberto a novas oportunidades em engenharia de software, freelances e mentorias.</i>
 </div>
