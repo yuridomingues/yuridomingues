@@ -2,7 +2,7 @@
 
 # Yuri Domingues
 
-**Engenheiro de Software · Backend & IA**
+**Engenheiro de Software · Backend & Fullstack**
 
 *Teresópolis, RJ.*
 
