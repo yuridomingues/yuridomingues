@@ -16,7 +16,7 @@
 
 ## Sobre mim
 
-Desenvolvedor com quase 2 anos de mercado, focado em backend com Python mas confortável no full-stack quando precisa. Gosto de construir coisa do zero e levar para produção, a maioria dos projetos que fiz foi de forma independente mesmo.
+Desenvolvedor com mais de 2 anos de mercado, focado em backend com Python mas confortável no full-stack quando precisa. Gosto de construir coisa do zero e levar para produção, a maioria dos projetos que fiz foi de forma independente mesmo.
 
 Atualmente na **WSB Advisors**, desenvolvendo uma plataforma de inteligência marítima para o setor de O&G e um sistema interno de gestão de projetos e equipes que o time já usa no dia a dia. Estudante de **Ciência da Computação no UNIFESO**, onde também sou Presidente do Diretório Acadêmico do curso.
 
