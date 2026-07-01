@@ -16,7 +16,7 @@
 
 ## Sobre mim
 
-Desenvolvedor com mais de 2 anos de mercado, focado em backend com Python mas confortável no full-stack quando precisa. Gosto de construir coisa do zero e levar para produção, a maioria dos projetos que fiz foi de forma independente mesmo.
+Desenvolvedor com mais de 2 anos de mercado, focado em engenharia backend e infraestrutura, mas muito confortável transitando pelo full-stack quando necessário. 
 
 Atualmente na **WSB Advisors**, desenvolvendo uma plataforma de inteligência marítima para o setor de O&G e um sistema interno de gestão de projetos e equipes que o time já usa no dia a dia. Estudante de **Ciência da Computação no UNIFESO**, onde também sou Presidente do Diretório Acadêmico do curso.
 
@@ -32,7 +32,9 @@ Atualmente na **WSB Advisors**, desenvolvendo uma plataforma de inteligência ma
 ![Django Ninja](https://img.shields.io/badge/Django%20Ninja-009688?style=flat-square&logo=django&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-192020?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
@@ -47,6 +49,7 @@ Atualmente na **WSB Advisors**, desenvolvendo uma plataforma de inteligência ma
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black)
 
 **Automação**
 
@@ -58,6 +61,9 @@ Atualmente na **WSB Advisors**, desenvolvendo uma plataforma de inteligência ma
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
