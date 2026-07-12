@@ -2,7 +2,7 @@
 
 # Yuri Domingues
 
-**Engenheiro de Software · Backend Developer**
+**Engenheiro de Software**
 
 *Teresópolis, RJ.*
 
