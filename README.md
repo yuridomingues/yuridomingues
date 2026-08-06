@@ -18,7 +18,7 @@
 
 Desenvolvedor com mais de 2 anos de mercado, focado em engenharia backend e infraestrutura, mas muito confortável transitando pelo full-stack quando necessário. 
 
-Atualmente na **WSB Advisors**, desenvolvendo uma plataforma de inteligência marítima para o setor de O&G e um sistema interno de gestão de projetos e equipes que o time já usa no dia a dia. Estudante de **Ciência da Computação no UNIFESO**, onde também sou Presidente do Diretório Acadêmico do curso.
+Atualmente na **WSB Advisors**, desenvolvendo uma plataforma de inteligência em fontes abertas e sistemas internos que o time já usa no dia a dia. Estudante de **Ciência da Computação no Unifeso**, onde também sou Presidente do Diretório Acadêmico do curso.
 
 ---
 
