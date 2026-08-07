@@ -2,7 +2,7 @@
 
 # Yuri Domingues
 
-**Engenheiro de Software**
+**Engenheiro de Software | Backend & Inteligência de Dados**
 
 *Teresópolis, RJ.*
 
@@ -16,9 +16,11 @@
 
 ## Sobre mim
 
-Desenvolvedor com mais de 2 anos de mercado, focado em engenharia backend e infraestrutura, mas muito confortável transitando pelo full-stack quando necessário. 
+Engenheiro de Software com mais de 2 anos de experiência, focado em **Backend, Web Scraping e Inteligência de Dados**. Gosto de atuar na interseção entre a lógica de infraestrutura, a extração de dados complexos e a segurança da informação.
 
-Atualmente na **WSB Advisors**, desenvolvendo uma plataforma de inteligência em fontes abertas e sistemas internos que o time já usa no dia a dia. Estudante de **Ciência da Computação no Unifeso**, onde também sou Presidente do Diretório Acadêmico do curso.
+Acredito no **Pensamento Sistêmico**: investigar a fundo a arquitetura e cruzar variáveis antes de escrever código. Atualmente, construo motores de coleta em larga escala e plataformas de inteligência de mercado na **One Energy News**. 
+
+Fora do terminal, encontro equilíbrio fazendo trilhas estudando. No ecossistema acadêmico (Ciência da Computação - UNIFESO), atuo como Presidente do Diretório Acadêmico (DACC) e Fundador da Liga Acadêmica de Cibersegurança e Defesa Digital (LACDD).
 
 ---
 
@@ -39,23 +41,19 @@ Atualmente na **WSB Advisors**, desenvolvendo uma plataforma de inteligência em
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 
-**Web Scraping**
+**Web Scraping & Dados**
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-
-**IA & Dados**
-
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black)
 
-**Automação**
+**Automação & IA**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Notion API](https://img.shields.io/badge/Notion%20API-000000?style=flat-square&logo=notion&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-867DB1?style=flat-square&logo=microsoft&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=pytorch&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black)
 
 **Cloud & DevOps**
 
@@ -63,7 +61,6 @@ Atualmente na **WSB Advisors**, desenvolvendo uma plataforma de inteligência em
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -72,45 +69,34 @@ Atualmente na **WSB Advisors**, desenvolvendo uma plataforma de inteligência em
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-
-**Outros**
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-4C8C2D?style=flat-square&logo=espressif&logoColor=white)
 
 ---
 
 ## Projetos em destaque
 
+### Plataforma de Inteligência Marítima *(WSB Advisors)*
+Desenvolvimento do motor de dados para o setor de O&G. Foco em coleta automatizada massiva via scraping (bypass de restrições), processamento de dados estratégicos e orquestração de arquitetura backend.
+`Python` `FastAPI` `Django Ninja` `Playwright` `Selenium`
+
 ### Sistema de Gestão de Projetos e Equipes *(WSB Advisors, em produção)*
-Construí do zero um sistema completo de gestão, tipo um Jira. Tem tarefas, sprints, times, categorias, prioridades, sistema de revisão por pares, gestão de arquivos e dashboards de performance. Hoje é usado pelos times de desenvolvimento e comercial da empresa.
+Arquitetura e desenvolvimento de um ecossistema interno de governança corporativa. Modelagem de banco de dados e APIs para suporte a sprints, times, gestão de arquivos e dashboards operacionais.
 `Next.js` `FastAPI` `Supabase` `TypeScript` `Python`
 
-### Plataforma de Inteligência Marítima *(WSB Advisors)*
-Plataforma de dados para o setor de O&G com coleta automatizada via scraping, processamento de dados estratégicos e modelos preditivos de IA.
-`Python` `FastAPI` `Django Ninja` `Playwright` `Selenium` `Next.js`
+### Automação e Engenharia de Dados B2B *(Solarcore)*
+Pipeline de automação integrando n8n, Notion API, Django e AWS. Engenharia de fluxos para qualificação de prospects, reduzindo gargalos operacionais e garantindo integridade das informações.
+`n8n` `Django` `Playwright` `Python` `AWS`
 
-### Plataforma de Gestão Veterinária *(em desenvolvimento)*
-Sistema de gestão clínica para medicina veterinária: prontuários, agendamentos e controle operacional. Projeto em dupla.
-`C#` `.NET` `Next.js`
-
-### Plataforma de Gestão de Passageiros em Vans *(em desenvolvimento)*
-Controle de rotas, passageiros e operação de transporte. Projeto em equipe (3 pessoas).
-`C#` `.NET` `React`
+### Ecossistemas SaaS (Faro/VanBora)
+Desenvolvimento de infraestruturas full-stack escaláveis focadas em gestão veterinária e controle de frotas. 
+`C#` `.NET` `React` `Next.js`
 
 ### Deep Learning em Imagens Médicas *(Pesquisa, UNIFESO)*
-Abordagem Data-Centric para treino de modelos em imagens de colonoscopia e mamografia. Uso de SSIM e K-Means para seleção e agrupamento de dados. Apresentado no CONFESO 2025.
+Abordagem Data-Centric para treino de modelos em imagens de colonoscopia e mamografia. Uso de SSIM e K-Means para seleção e agrupamento de dados focados em heurística e reconhecimento de padrões. Apresentado no CONFESO 2025.
 `Python` `Deep Learning` `SSIM` `K-Means`
 
 ### [Sistema de Irrigação Automatizado](https://github.com/yuridomingues/ESP32_Automated_Irrigation)
-Sistema de irrigação com ESP32, sensores de umidade e dashboard de monitoramento em tempo real via WebSocket.
-`ESP32` `C++` `WebSocket` `IoT` `Python`
-
-### Automação SDR com n8n *(Solarcore)*
-Pipeline de automação para time de vendas com n8n, Notion API, Django e AWS. Qualificação automática de prospects e redução de trabalho manual operacional.
-`n8n` `Notion API` `Django` `Playwright` `Python` `AWS`
+Sistema IoT com ESP32, sensores de umidade e dashboard de monitoramento via WebSocket.
+`ESP32` `C++` `WebSocket` `IoT`
 
 ---
 
@@ -128,5 +114,5 @@ Pipeline de automação para time de vendas com n8n, Notion API, Django e AWS. Q
 ---
 
 <div align="center">
-  <i>Aberto a novas oportunidades em engenharia de software, freelances e mentorias.</i>
+  <i>Aberto a novas oportunidades em Engenharia de Software e Inteligência de Dados.</i>
 </div>
