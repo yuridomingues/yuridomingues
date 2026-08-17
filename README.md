@@ -2,13 +2,15 @@
 
 # Yuri Domingues
 
-**Engenheiro de Software | Backend & Inteligência de Dados**
+**AI & Software Engineer | Backend (Python) & Inteligência de Dados**
 
-*Teresópolis, RJ.*
+*Teresópolis, RJ — Brasil*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/domingues-yuri/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yuridomingues.github.io)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yuridomingues.contato@gmail.com)
+
+> *"Tech, ética & o lado humano da Inteligência Artificial."*
 
 </div>
 
@@ -16,11 +18,11 @@
 
 ## Sobre mim
 
-Engenheiro de Software com mais de 2 anos de experiência, focado em **Backend, Web Scraping e Inteligência de Dados**. Gosto de atuar na interseção entre a lógica de infraestrutura, a extração de dados complexos e a segurança da informação.
+Sou um Engenheiro de IA & Software focado em estruturar o back-end que faz a inteligência de dados acontecer. Gosto de atuar no exato ponto onde a lógica de infraestrutura, a segurança da informação e a ética se encontram. Acredito no **Pensamento Sistêmico**: investigar a fundo a arquitetura e cruzar variáveis antes de escrever código, sem nunca perder de vista o impacto humano da tecnologia.
 
-Acredito no **Pensamento Sistêmico**: investigar a fundo a arquitetura e cruzar variáveis antes de escrever código. Atualmente, construo motores de coleta em larga escala e plataformas de inteligência de mercado na **One Energy News**. 
+Com mais de 2 anos de experiência prática, atualmente construo infraestruturas *core* e motores de coleta em larga escala para inteligência de mercado na **One Energy News / WSB Advisors**. Minha rotina envolve web scraping avançado (bypass de restrições), automação B2B e o desenvolvimento de APIs robustas para processar volumes massivos de dados.
 
-Fora do terminal, encontro equilíbrio fazendo trilhas estudando. No ecossistema acadêmico (Ciência da Computação - UNIFESO), atuo como Presidente do Diretório Acadêmico (DACC) e Fundador da Liga Acadêmica de Cibersegurança e Defesa Digital (LACDD).
+Fora do terminal, encontro equilíbrio na arte, nos livros e nas montanhas (fazendo trilhas). No ecossistema acadêmico (Ciência da Computação - UNIFESO), atuo como **Speaker & President** do Diretório Acadêmico (DACC) e Fundador da Liga Acadêmica de Cibersegurança e Defesa Digital (LACDD). Meu foco é ditar a visão técnica e ética: fomentar debates sobre o impacto da IA e cibersegurança, ajudando a formar a próxima geração de desenvolvedores críticos.
 
 ---
 
@@ -74,7 +76,11 @@ Fora do terminal, encontro equilíbrio fazendo trilhas estudando. No ecossistema
 
 ## Projetos em destaque
 
-### Plataforma de Inteligência Marítima *(WSB Advisors)*
+### Smart Impact IA *(Pesquisa PICPq, UNIFESO)*
+Desenvolvimento de uma plataforma inteligente focada na promoção do ESG e na aceleração socioambiental de microempreendimentos. A arquitetura integra Modelos de Linguagem de Grande Escala (LLMs) com a técnica de Geração Aumentada por Recuperação (RAG) para mitigar alucinações e processar normas de sustentabilidade com alto rigor de contexto local.
+`Python` `FastAPI` `LLMs` `RAG` `Supabase` `React`
+
+### Plataforma de Inteligência Marítima *(WSB Advisors / One Energy News)*
 Desenvolvimento do motor de dados para o setor de O&G. Foco em coleta automatizada massiva via scraping (bypass de restrições), processamento de dados estratégicos e orquestração de arquitetura backend.
 `Python` `FastAPI` `Django Ninja` `Playwright` `Selenium`
 
@@ -94,10 +100,6 @@ Desenvolvimento de infraestruturas full-stack escaláveis focadas em gestão vet
 Abordagem Data-Centric para treino de modelos em imagens de colonoscopia e mamografia. Uso de SSIM e K-Means para seleção e agrupamento de dados focados em heurística e reconhecimento de padrões. Apresentado no CONFESO 2025.
 `Python` `Deep Learning` `SSIM` `K-Means`
 
-### [Sistema de Irrigação Automatizado](https://github.com/yuridomingues/ESP32_Automated_Irrigation)
-Sistema IoT com ESP32, sensores de umidade e dashboard de monitoramento via WebSocket.
-`ESP32` `C++` `WebSocket` `IoT`
-
 ---
 
 ## Stats
@@ -114,5 +116,5 @@ Sistema IoT com ESP32, sensores de umidade e dashboard de monitoramento via WebS
 ---
 
 <div align="center">
-  <i>Aberto a novas oportunidades em Engenharia de Software e Inteligência de Dados.</i>
+  <i>Aberto a novas oportunidades em Engenharia de IA & Software e Inteligência de Dados.</i>
 </div>
