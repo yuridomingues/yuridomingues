@@ -4,13 +4,9 @@
 
 **AI & Software Engineer | Backend (Python) & Inteligência de Dados**
 
-*Teresópolis, RJ — Brasil*
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/domingues-yuri/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yuridomingues.github.io)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yuridomingues.contato@gmail.com)
-
-> *"Tech, ética & o lado humano da Inteligência Artificial."*
 
 </div>
 
@@ -18,11 +14,11 @@
 
 ## Sobre mim
 
-Sou um Engenheiro de IA & Software focado em estruturar o back-end que faz a inteligência de dados acontecer. Gosto de atuar no exato ponto onde a lógica de infraestrutura, a segurança da informação e a ética se encontram. Acredito no **Pensamento Sistêmico**: investigar a fundo a arquitetura e cruzar variáveis antes de escrever código, sem nunca perder de vista o impacto humano da tecnologia.
+Sou um Engenheiro de IA & Software focado em estruturar o back-end que faz a inteligência de dados acontecer. Gosto de atuar no exato ponto onde a lógica de infraestrutura, a segurança da informação e a ética se encontram.
 
 Com mais de 2 anos de experiência prática, atualmente construo infraestruturas *core* e motores de coleta em larga escala para inteligência de mercado na **One Energy News / WSB Advisors**. Minha rotina envolve web scraping avançado (bypass de restrições), automação B2B e o desenvolvimento de APIs robustas para processar volumes massivos de dados.
 
-Fora do terminal, encontro equilíbrio na arte, nos livros e nas montanhas (fazendo trilhas). No ecossistema acadêmico (Ciência da Computação - UNIFESO), atuo como **Speaker & President** do Diretório Acadêmico (DACC) e Fundador da Liga Acadêmica de Cibersegurança e Defesa Digital (LACDD). Meu foco é ditar a visão técnica e ética: fomentar debates sobre o impacto da IA e cibersegurança, ajudando a formar a próxima geração de desenvolvedores críticos.
+Encontro equilíbrio na arte, nos livros e nas montanhas (fazendo trilhas). No ecossistema acadêmico (Ciência da Computação - UNIFESO), atuo como Presidente do Diretório Acadêmico (DACC) e Fundador da Liga Acadêmica de Cibersegurança e Defesa Digital (LACDD). Meu foco é ditar a visão técnica e ética: fomentar debates sobre o impacto da IA e cibersegurança, ajudando a formar a próxima geração de desenvolvedores críticos.
 
 ---
 
