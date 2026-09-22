@@ -2,53 +2,76 @@
 
 # Yuri Domingues
 
-**Software Engineer | AI Engineer | Python Backend**
+**Software Engineer · AI Engineering · Intelligence & Security**
 
-Software Engineering · AI · Intelligence · OSINT · Security
+I build backend systems, AI tooling and investigative software with an emphasis on reliability, traceability and useful automation.
 
-[LinkedIn](https://www.linkedin.com/in/domingues-yuri/) ·
 [Portfolio](https://yuridomingues.github.io) ·
+[LinkedIn](https://www.linkedin.com/in/domingues-yuri/) ·
 [Email](mailto:yuridomingues.contato@gmail.com)
 
 </div>
 
 ---
 
-## About
+## What I work on
 
-Software Engineer working with **Python, backend systems, automation, data processing and AI Engineering**.
+My current work sits mostly at the intersection of **software engineering, AI Engineering, data systems, OSINT and defensive security**.
 
-Currently building production systems across backend, data and infrastructure, while also working with **LLMs, RAG and applied AI**.
+I am particularly interested in systems where a result needs to be explainable and operational: retrieval that can be evaluated, investigations that preserve provenance, security findings that become actionable work, and agents that prove completion instead of only claiming it.
 
-I'm particularly interested in the intersection between **software, AI, OSINT and cybersecurity**, exploring how engineering can support investigation, intelligence and defensive security.
+## Selected work
 
-I also care about the human side of technology: privacy, reliability, ethics and the impact of increasingly automated systems.
+### [VIGIL](projects/vigil.md)
+OSINT investigation workbench focused on **evidence provenance, entity relationships and explainable correlation**.
+
+**Python · FastAPI · React · OSINT · Graph Analysis**
+
+### [TraceRAG Core](projects/tracerag.md)
+Experimental infrastructure for **RAG regression testing**, retrieval evidence, abstention and benchmark-driven evaluation.
+
+**Python · FastAPI · RAG · Evals · CI**
+
+### [AI Engineering Harness](projects/ai-engineering.md)
+Reusable infrastructure for **agent-first software engineering**, including task graphs, isolated worktrees, verification and adversarial review.
+
+**Agents · Orchestration · Verification · MCP · Evals**
+
+### [VIGIA](projects/vigia.md)
+Security-risk triage and remediation planning for small development teams without a dedicated security function.
+
+**AppSec · Threat Intelligence · Supabase · Product Engineering**
+
+### [ENTRE](projects/entre.md)
+A collection of interactive web experiences about perception, nature, music, conversation and time.
+
+**Interactive Web · Frontend · Creative Coding**
+
+### Support System
+Full-stack support-ticket management system built as one product across two repositories.
+
+[Backend](https://github.com/yuridomingues/support-system-api) ·
+[Frontend](https://github.com/yuridomingues/support-system-interface)
+
+**FastAPI · React · PostgreSQL · Docker · JWT · Tests**
 
 ---
 
-## Tech
+## Engineering stack
 
-**Backend:** Python · Django · FastAPI · PostgreSQL · C# · .NET  
-**AI & Data:** LLMs · RAG · Ollama · Pandas · Deep Learning  
-**Intelligence & Automation:** OSINT · Playwright · Selenium · n8n  
-**Cloud:** AWS · Docker · Terraform · Linux · Nginx  
+**Backend:** Python · FastAPI · Django · PostgreSQL · C# · .NET  
+**AI & Data:** LLMs · RAG · Evals · Pandas · Ollama  
+**Systems & Automation:** Docker · Linux · Nginx · n8n · Playwright  
+**Intelligence & Security:** OSINT · provenance · threat intelligence · application security  
 **Frontend:** React · Next.js · TypeScript
 
 ---
 
-## Selected Work
+## Other work
 
-### Smart Impact IA
-Applied AI research using **LLMs, RAG, Python and FastAPI** for sustainability and ESG-related information retrieval.
+I also build data pipelines, commercial/internal software and research prototypes. Some repositories stay private because they contain client, company or fast-moving experimental work; when useful, I publish a sanitized engineering case instead of exposing implementation details.
 
-### Maritime Intelligence Platform
-Backend and data systems for maritime market intelligence, including automated data collection and processing.
-
-### SyncLife
-Personal platform integrating productivity, studies, finances and habits, experimenting with both **cloud and local AI**.
-
-### Data-Centric Deep Learning
-Research on medical imaging using **SSIM, K-Means and Data-Centric AI**, presented at CONFESO 2025.
+My broader interest is the human side of technology: privacy, reliability, agency and what increasingly automated systems change about how people work and make decisions.
 
 ---
 
