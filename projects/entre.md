@@ -20,6 +20,10 @@ Examples include:
 
 The project is deliberately different from my infrastructure and AI work. It is where I explore autonomy, curiosity and human experience through software.
 
+## Demo
+
+https://entre-ideias.vercel.app
+
 ## Repository
 
 Public source: https://github.com/yuridomingues/entre
