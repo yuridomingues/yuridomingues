@@ -25,6 +25,10 @@ VIGIA is designed to:
 
 VIGIA is not positioned as a replacement for a security team, penetration test or professional incident response. Its role is to give smaller engineering teams a structured security baseline and help them act on findings more consistently.
 
+## Demo
+
+https://vigia-cti.vercel.app
+
 ## Status
 
 Active TCC and product-development project. The implementation repository remains private.
