@@ -22,7 +22,7 @@ I am particularly interested in systems where a result needs to be explainable a
 
 ## Selected work
 
-### [VIGIL](projects/vigil.md)
+### [VIGIL](https://github.com/yuridomingues/vigil)
 OSINT investigation workbench focused on **evidence provenance, entity relationships and explainable correlation**.
 
 **Python · FastAPI · React · OSINT · Graph Analysis**
@@ -42,16 +42,13 @@ Security-risk triage and remediation planning for small development teams withou
 
 **AppSec · Threat Intelligence · Supabase · Product Engineering**
 
-### [ENTRE](projects/entre.md)
+### [ENTRE](https://github.com/yuridomingues/entre)
 A collection of interactive web experiences about perception, nature, music, conversation and time.
 
 **Interactive Web · Frontend · Creative Coding**
 
-### Support System
-Full-stack support-ticket management system built as one product across two repositories.
-
-[Backend](https://github.com/yuridomingues/support-system-api) ·
-[Frontend](https://github.com/yuridomingues/support-system-interface)
+### [Support System](https://github.com/yuridomingues/support-system)
+Full-stack support-ticket management monorepo with backend, frontend and preserved project history.
 
 **FastAPI · React · PostgreSQL · Docker · JWT · Tests**
 
