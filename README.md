@@ -25,7 +25,8 @@ I am particularly interested in systems where a result needs to be explainable a
 ### [VIGIL](https://github.com/yuridomingues/vigil)
 OSINT investigation workbench focused on **evidence provenance, entity relationships and explainable correlation**.
 
-**Python · FastAPI · React · OSINT · Graph Analysis**
+**Python · FastAPI · React · OSINT · Graph Analysis**  
+[Live demo](https://vigil-osint.vercel.app)
 
 ### [TraceRAG Core](https://github.com/yuridomingues/tracerag-core)
 Experimental infrastructure for **RAG regression testing**, retrieval evidence, abstention and benchmark-driven evaluation.
@@ -40,12 +41,14 @@ Reusable infrastructure for **agent-first software engineering**, including task
 ### [VIGIA](projects/vigia.md)
 Security-risk triage and remediation planning for small development teams without a dedicated security function.
 
-**AppSec · Threat Intelligence · Supabase · Product Engineering**
+**AppSec · Threat Intelligence · Supabase · Product Engineering**  
+[Live demo](https://vigia-cti.vercel.app)
 
 ### [ENTRE](https://github.com/yuridomingues/entre)
 A collection of interactive web experiences about perception, nature, music, conversation and time.
 
-**Interactive Web · Frontend · Creative Coding**
+**Interactive Web · Frontend · Creative Coding**  
+[Live demo](https://entre-ideias.vercel.app)
 
 ### [Support System](https://github.com/yuridomingues/support-system)
 Full-stack support-ticket management monorepo with backend, frontend and preserved project history.
