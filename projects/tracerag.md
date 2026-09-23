@@ -25,6 +25,6 @@ A generated answer can look plausible even when the retrieval layer changed for 
 
 A central design rule is that retrieval metrics do not prove final-answer correctness. They measure a specific layer of the system and should be interpreted accordingly.
 
-## Status
+## Repository
 
-Experimental engineering project. The repository is private while product boundaries and evaluation methodology continue to evolve.
+Public source: https://github.com/yuridomingues/tracerag-core
