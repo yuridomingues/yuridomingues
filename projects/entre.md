@@ -20,6 +20,6 @@ Examples include:
 
 The project is deliberately different from my infrastructure and AI work. It is where I explore autonomy, curiosity and human experience through software.
 
-## Status
+## Repository
 
-Ongoing personal project. The implementation repository is private while the collection continues to change.
+Public source: https://github.com/yuridomingues/entre
