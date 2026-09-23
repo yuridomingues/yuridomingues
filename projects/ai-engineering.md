@@ -27,6 +27,6 @@ The guiding principle is simple: **done needs executable evidence**.
 
 Instead of solving repeated failures with larger prompts, the project prioritizes tests, schemas, linters, tooling and durable repository guardrails.
 
-## Status
+## Repository
 
-Active personal R&D. The implementation repository remains private while the harness changes quickly; this case study documents the architecture and engineering approach.
+Public source: https://github.com/yuridomingues/ai-engineering
