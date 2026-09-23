@@ -28,4 +28,6 @@ The project is intentionally conservative about correlation. Similar usernames o
 
 Test environment: https://vigil-osint.vercel.app
 
-The repository remains private while the project is still evolving. This page documents the engineering case without exposing private investigation data or operational configuration.
+## Repository
+
+Public source: https://github.com/yuridomingues/vigil
