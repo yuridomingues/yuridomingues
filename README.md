@@ -27,12 +27,12 @@ OSINT investigation workbench focused on **evidence provenance, entity relations
 
 **Python · FastAPI · React · OSINT · Graph Analysis**
 
-### [TraceRAG Core](projects/tracerag.md)
+### [TraceRAG Core](https://github.com/yuridomingues/tracerag-core)
 Experimental infrastructure for **RAG regression testing**, retrieval evidence, abstention and benchmark-driven evaluation.
 
 **Python · FastAPI · RAG · Evals · CI**
 
-### [AI Engineering Harness](projects/ai-engineering.md)
+### [AI Engineering Harness](https://github.com/yuridomingues/ai-engineering)
 Reusable infrastructure for **agent-first software engineering**, including task graphs, isolated worktrees, verification and adversarial review.
 
 **Agents · Orchestration · Verification · MCP · Evals**
