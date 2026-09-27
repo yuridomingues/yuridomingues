@@ -2,9 +2,9 @@
 
 # Yuri Domingues
 
-**Software Engineer · AI Engineering · Intelligence & Security**
+**Software Engineer · AI Engineering · Reliable Systems**
 
-I build backend systems, AI tooling and investigative software with an emphasis on reliability, traceability and useful automation.
+I build Python backends and production-minded AI systems with an emphasis on evaluation, traceability, reliability and useful automation.
 
 [Portfolio](https://yuridomingues.github.io) ·
 [LinkedIn](https://www.linkedin.com/in/domingues-yuri/) ·
@@ -14,69 +14,66 @@ I build backend systems, AI tooling and investigative software with an emphasis 
 
 ---
 
-## What I work on
+## Direction
 
-My current work sits mostly at the intersection of **software engineering, AI Engineering, data systems, OSINT and defensive security**.
+I currently work as a **Lead Software Engineer**, combining hands-on engineering with technical leadership across architecture, backend, data, integrations, deployment and security.
 
-I am particularly interested in systems where a result needs to be explainable and operational: retrieval that can be evaluated, investigations that preserve provenance, security findings that become actionable work, and agents that prove completion instead of only claiming it.
+My specialization path is **AI Engineering**, moving toward AI systems engineering: RAG that can be evaluated, agents that can be verified, observable integrations and production systems that fail predictably instead of silently.
 
-## Selected work
+OSINT and application security are complementary lenses for the same engineering problem: provenance, risk, evidence and trustworthy decision-making.
 
-### [VIGIL](https://github.com/yuridomingues/vigil)
-OSINT investigation workbench focused on **evidence provenance, entity relationships and explainable correlation**.
-
-**Python · FastAPI · React · OSINT · Graph Analysis**  
-[Live demo](https://vigil-osint.vercel.app)
+## Selected engineering work
 
 ### [TraceRAG Core](https://github.com/yuridomingues/tracerag-core)
-Experimental infrastructure for **RAG regression testing**, retrieval evidence, abstention and benchmark-driven evaluation.
+RAG regression testing with retrieval evidence, deterministic abstention, benchmarks and CI.
 
-**Python · FastAPI · RAG · Evals · CI**
+**Python · FastAPI · RAG · Evals · Retrieval Reliability**
 
 ### [AI Engineering Harness](https://github.com/yuridomingues/ai-engineering)
-Reusable infrastructure for **agent-first software engineering**, including task graphs, isolated worktrees, verification and adversarial review.
+Reusable agent-first engineering control plane with task graphs, isolated worktrees, independent verification, MCP and adversarial review.
 
 **Agents · Orchestration · Verification · MCP · Evals**
 
-### [VIGIA](projects/vigia.md)
-Security-risk triage and remediation planning for small development teams without a dedicated security function.
+### [VIGIL](https://github.com/yuridomingues/vigil)
+Provenance-first OSINT investigation workbench for lawful public-source research, entity relationships, analyst review and explainable correlation.
 
-**AppSec · Threat Intelligence · Supabase · Product Engineering**  
-[Live demo](https://vigia-cti.vercel.app)
+**Python · FastAPI · React · OSINT · Graph Analysis**<br>
+[Live test environment](https://vigil-osint.vercel.app)
+
+## Product & creative lab
+
+### VIGIA
+Private TCC/product hypothesis for turning security findings and infrastructure signals into explainable risk prioritization and remediation work for small development teams.
+
+**AppSec · Threat Intelligence · Product Engineering · Supabase**
 
 ### [ENTRE](https://github.com/yuridomingues/entre)
-A collection of interactive web experiences about perception, nature, music, conversation and time.
+Interactive web experiences about perception, time, music, choices and collective life. A creative-technology lab for the human side of software.
 
-**Interactive Web · Frontend · Creative Coding**  
-[Live demo](https://entre-ideias.vercel.app)
+**Next.js · React · TypeScript · Creative Coding**<br>
+[Try it](https://yuridomingues.github.io/entre/)
+
+## Engineering foundations
 
 ### [Support System](https://github.com/yuridomingues/support-system)
-Full-stack support-ticket management monorepo with backend, frontend and preserved project history.
+Full-stack support-ticket system with authentication, migrations, tests and containerized local development.
 
-**FastAPI · React · PostgreSQL · Docker · JWT · Tests**
+**FastAPI · React · PostgreSQL · Docker · JWT**
 
----
+## Stack
 
-## Engineering stack
-
-**Backend:** Python · FastAPI · Django · PostgreSQL · C# · .NET  
-**AI & Data:** LLMs · RAG · Evals · Pandas · Ollama  
-**Systems & Automation:** Docker · Linux · Nginx · n8n · Playwright  
-**Intelligence & Security:** OSINT · provenance · threat intelligence · application security  
+**Backend:** Python · FastAPI · Django · PostgreSQL · REST APIs<br>
+**AI:** LLMs · RAG · Agents · Evals · MCP · Ollama<br>
+**Systems:** Docker · Linux · CI/CD · Observability · Automation<br>
+**Intelligence & Security:** OSINT · provenance · threat intelligence · AppSec<br>
 **Frontend:** React · Next.js · TypeScript
 
 ---
 
-## Other work
-
-I also build data pipelines, commercial/internal software and research prototypes. Some repositories stay private because they contain client, company or fast-moving experimental work; when useful, I publish a sanitized engineering case instead of exposing implementation details.
-
-My broader interest is the human side of technology: privacy, reliability, agency and what increasingly automated systems change about how people work and make decisions.
-
----
+I am interested in software/backend and AI Engineering roles where I can build systems end to end and keep deepening the reliability layer around applied AI.
 
 <div align="center">
 
-**Systems, people and meaning.**
+**Build it. Measure it. Prove it works.**
 
 </div>
