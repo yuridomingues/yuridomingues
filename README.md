@@ -16,7 +16,7 @@ I build Python backends and production-minded AI systems with an emphasis on eva
 
 ## Direction
 
-I currently work as a **Lead Software Engineer**, combining hands-on engineering with technical leadership across architecture, backend, data, integrations, deployment and security.
+I work on production software end to end, combining hands-on engineering with technical responsibility across architecture, backend, data, integrations, deployment and security in a small team.
 
 My specialization path is **AI Engineering**, moving toward AI systems engineering: RAG that can be evaluated, agents that can be verified, observable integrations and production systems that fail predictably instead of silently.
 
@@ -33,6 +33,11 @@ RAG regression testing with retrieval evidence, deterministic abstention, benchm
 Reusable agent-first engineering control plane with task graphs, isolated worktrees, independent verification, MCP and adversarial review.
 
 **Agents · Orchestration · Verification · MCP · Evals**
+
+### [paper-skills](https://github.com/yuridomingues/paper-skills)
+Grounded scientific-manuscript review and drafting skills with segmented parallel analysis, evidence requirements, anti-hallucination guards and a citable archived release.
+
+**Agents · Scientific Writing · Verification · Grounding · DOI**
 
 ### [VIGIL](https://github.com/yuridomingues/vigil)
 Provenance-first OSINT investigation workbench for lawful public-source research, entity relationships, analyst review and explainable correlation.
