@@ -2,9 +2,9 @@
 
 # Yuri Domingues
 
-**Software Engineer · AI Engineering · Reliable Systems**
+**Software Engineer · AI Engineering · Security Research**
 
-I build Python backends and production-minded AI systems with an emphasis on evaluation, traceability, reliability and useful automation.
+I build Python backends and production-minded AI systems, while developing a deeper security research practice around AppSec, OSINT and trustworthy AI.
 
 [Portfolio](https://yuridomingues.github.io) ·
 [LinkedIn](https://www.linkedin.com/in/domingues-yuri/) ·
@@ -18,9 +18,9 @@ I build Python backends and production-minded AI systems with an emphasis on eva
 
 I work on production software end to end, combining hands-on engineering with technical responsibility across architecture, backend, data, integrations, deployment and security in a small team.
 
-My specialization path is **AI Engineering**, moving toward AI systems engineering: RAG that can be evaluated, agents that can be verified, observable integrations and production systems that fail predictably instead of silently.
+My path is converging across **Software Engineering, AI Engineering and Security Research**. Software is the foundation; AI is the current specialization; security is the next layer I am deliberately deepening.
 
-OSINT and application security are complementary lenses for the same engineering problem: provenance, risk, evidence and trustworthy decision-making.
+I am especially interested in the intersection: reliable LLM systems, AI security, AppSec, OSINT, threat intelligence and investigation workflows where provenance, risk and evidence matter.
 
 ## Selected engineering work
 
@@ -70,12 +70,12 @@ Full-stack support-ticket system with authentication, migrations, tests and cont
 **Backend:** Python · FastAPI · Django · PostgreSQL · REST APIs<br>
 **AI:** LLMs · RAG · Agents · Evals · MCP · Ollama<br>
 **Systems:** Docker · Linux · CI/CD · Observability · Automation<br>
-**Intelligence & Security:** OSINT · provenance · threat intelligence · AppSec<br>
+**Security & Investigation:** AppSec · OSINT · threat intelligence · provenance · AI security<br>
 **Frontend:** React · Next.js · TypeScript
 
 ---
 
-I am interested in software/backend and AI Engineering roles where I can build systems end to end and keep deepening the reliability layer around applied AI.
+I am interested in software/backend and AI Engineering roles where I can build systems end to end while moving deeper into AI security and security research.
 
 <div align="center">
 
